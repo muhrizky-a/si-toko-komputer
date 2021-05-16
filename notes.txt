@@ -1,1 +1,7 @@
-
+Diagram pada file .drawio :
+-ERD
+-DFD
+-Use Case Diagram
+-Class Diagram
+-Sequence Diagram
+-Activity Diagram (Global)
